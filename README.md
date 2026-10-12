@@ -10,10 +10,10 @@ Production-grade infrastructure and tooling, fully documented and automated:
 * 📝 **Linux & automation**: Bash scripting, Ansible playbooks/roles, systemd/journalctl troubleshooting, SSH/sysctl/auditd hardening
 
 
-| Project | Stack | Description |
+| Projects | Stack | Description |
 | :--- | :--- | :--- |
 | **[Priworth](https://priworth.tech)** |  GitHub Actions · Docker · Grafana | GitOps deployment, Sealed Secrets, HPA, RBAC, Trivy scanning |
-| **[Loops](https://loops.co.ke)** | Terraform · AWS · Lambda | Serverless AWS stack, OIDC CI/CD, plan-on-PR, checkov, Dependabot |
+| **[Loops](https://loops.co.ke)** | Terraform · AWS · Lambda | Serverless AWS stack, CI/CD, plan-on-PR, checkov, Dependabot |
 
 
 ## Certifications
