@@ -1,5 +1,5 @@
 # Joecalih
-DevOps Engineer · Kubernetes · AWS · Terraform · CI/CD · Automation · Open to Remote (Worldwide) · Hybrid/Onsite (Kenya/EU) 
+DevOps Engineer · Kubernetes · AWS · Terraform · CI/CD · Automation · Open to Remote (Worldwide) · Hybrid/Onsite (France/EU)
 
 ## 🔧 What I build
 Production-grade infrastructure and tooling, fully documented and automated:
