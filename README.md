@@ -12,8 +12,8 @@ Production-grade infrastructure and tooling, fully documented and automated:
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **Priworth** |  GitHub Actions · Docker · Grafana | GitOps deployment, Sealed Secrets, HPA, RBAC, Trivy scanning |
-| **Loops** | Terraform · AWS · Lambda | Serverless AWS stack, OIDC CI/CD, plan-on-PR, checkov, Dependabot |
+| **[Priworth](https://priworth.tech)** |  GitHub Actions · Docker · Grafana | GitOps deployment, Sealed Secrets, HPA, RBAC, Trivy scanning |
+| **[Loops](https://loops.co.ke)** | Terraform · AWS · Lambda | Serverless AWS stack, OIDC CI/CD, plan-on-PR, checkov, Dependabot |
 
 
 ## Certifications
