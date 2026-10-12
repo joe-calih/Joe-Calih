@@ -21,7 +21,7 @@ Production-grade infrastructure and tooling, fully documented and automated:
 | **aws-terraform-infra** | Terraform · AWS · Lambda · DynamoDB | Serverless AWS stack, OIDC CI/CD, plan-on-PR, checkov, Dependabot, $0/month by design |
 
 
-## 📜 Practice-validated Certifications
+## 📜 Certifications
 
 * ✅ AWS Certified Solutions Architect – Associate (SAA-C03)
 * ✅ HashiCorp Certified: Terraform Associate (004)
