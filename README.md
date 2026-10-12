@@ -14,14 +14,12 @@ Production-grade infrastructure and tooling, fully documented and automated:
 * 🐧 **Linux & automation**: Bash scripting, Ansible playbooks/roles, systemd/journalctl troubleshooting, SSH/sysctl/auditd hardening
 * 📝 **Production READMEs**: architecture diagrams, cost tables, security decisions, lessons learned
 
-## 📌 Pinned Projects
 
 | Project | Stack | What it demonstrates |
 | :--- | :--- | :--- |
 | **devops-k8s-pipeline** | K8s · Helm · GitHub Actions · Docker · Prometheus/Grafana | GitOps deployment, Sealed Secrets, HPA, RBAC, Trivy scanning, full observability stack |
 | **aws-terraform-infra** | Terraform · AWS · Lambda · DynamoDB | Serverless AWS stack, OIDC CI/CD, plan-on-PR, checkov, Dependabot, $0/month by design |
-| **job-radar** | Chrome Extension (MV3) · Terraform · AWS Lambda · DynamoDB · EventBridge · SNS · scikit-learn | Automated job-search pipeline: LinkedIn capture + Adzuna/RemoteOK ingestion, TF-IDF fit scoring (no LLM calls, by design), daily email digest, OIDC CI/CD, true $0/month |
-| **peach** | Vite · PWA · Vitest · GitHub Pages · Terraform · AWS Lambda · DynamoDB | Installable, offline-capable Schengen 90/180-day tracker built for a real user: unit-tested rolling-window engine, EN/KA UI, cross-device sync through a CORS-locked serverless backend with token-hash auth, OIDC CI/CD, true $0/month |
+
 
 ## 📜 Practice-validated Certifications
 
