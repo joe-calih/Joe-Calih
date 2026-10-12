@@ -5,7 +5,7 @@ Production-grade infrastructure and tooling, fully documented and automated:
 
 * 🐳 **Multi-stage Docker** (non-root user, 60%+ size reduction, Trivy scanning)
 * ☸️ **Kubernetes** with Helm, Sealed Secrets, HPA, NetworkPolicies, RBAC
-* 🏗️ **Terraform modules** + remote state + DynamoDB locking + checkov analysis, OIDC CI/CD, plan-on-PR
+* 🍑 **Terraform modules** + remote state + DynamoDB locking + checkov analysis, OIDC CI/CD, plan-on-PR
 * 🔁 **GitHub Actions OIDC pipelines** (zero static credentials, gated deploys, Dependabot)
 * 📝 **Linux & automation**: Bash scripting, Ansible playbooks/roles, systemd/journalctl troubleshooting, SSH/sysctl/auditd hardening
 
