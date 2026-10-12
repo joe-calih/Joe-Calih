@@ -19,7 +19,6 @@ Production-grade infrastructure and tooling, fully documented and automated:
 ## Certifications
 
 * ✅ AWS Certified Solutions Architect – Associate (SAA-C03)
-* ✅ Certified Kubernetes Application Developer (CKAD)
 * ✅ AWS Certified Cloud Practitioner (CLF-C02)
 
 ## 📫 Connect
