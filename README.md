@@ -19,10 +19,8 @@ Production-grade infrastructure and tooling, fully documented and automated:
 ## Certifications
 
 * ✅ AWS Certified Solutions Architect – Associate (SAA-C03)
-* ✅ HashiCorp Certified: Terraform Associate (004)
 * ✅ Certified Kubernetes Application Developer (CKAD)
 * ✅ AWS Certified Cloud Practitioner (CLF-C02)
-* ✅ Linux Foundation Certified IT Associate (LFCA)
 
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/joecalih) · Email
