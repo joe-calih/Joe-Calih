@@ -1,6 +1,6 @@
 # Joecalih
 DevOps Engineer · Kubernetes · AWS · Terraform · CI/CD · Automation · Open to Remote (Worldwide) · Hybrid/Onsite (France/EU)
-
+##
 Production-grade infrastructure and tooling, fully documented and automated:
 
 * 🐳 **Multi-stage Docker** (non-root user, 60%+ size reduction, Trivy scanning)
