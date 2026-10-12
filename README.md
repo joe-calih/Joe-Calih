@@ -7,10 +7,7 @@ Production-grade infrastructure and tooling, fully documented and automated:
 * ☸️ **Kubernetes** with Helm, Sealed Secrets, HPA, NetworkPolicies, RBAC
 * 🏗️ **Terraform modules** + remote state + DynamoDB locking + checkov analysis, OIDC CI/CD, plan-on-PR
 * 🔁 **GitHub Actions OIDC pipelines** (zero static credentials, gated deploys, Dependabot)
-* 📊 **Observability**: Prometheus/Grafana (app + cluster dashboards), AWS CloudWatch alarms & dashboards
-* 🤖 **Automation tooling**: Chrome extension (Manifest V3), job-board API integration (Adzuna, RemoteOK), event-driven serverless pipelines (EventBridge, DynamoDB Streams, SNS), TF-IDF/cosine-similarity scoring, all at $0/month
-* 🐧 **Linux & automation**: Bash scripting, Ansible playbooks/roles, systemd/journalctl troubleshooting, SSH/sysctl/auditd hardening
-* 📝 **Production READMEs**: architecture diagrams, cost tables, security decisions, lessons learned
+* 📝 **Linux & automation**: Bash scripting, Ansible playbooks/roles, systemd/journalctl troubleshooting, SSH/sysctl/auditd hardening
 
 
 | Project | Stack | What it demonstrates |
