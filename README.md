@@ -12,8 +12,8 @@ Production-grade infrastructure and tooling, fully documented and automated:
 
 | Project | Stack | What it demonstrates |
 | :--- | :--- | :--- |
-| **devops-k8s-pipeline** | K8s · Helm · GitHub Actions · Docker · Prometheus/Grafana | GitOps deployment, Sealed Secrets, HPA, RBAC, Trivy scanning, full observability stack |
-| **aws-terraform-infra** | Terraform · AWS · Lambda · DynamoDB | Serverless AWS stack, OIDC CI/CD, plan-on-PR, checkov, Dependabot, $0/month by design |
+| **Priworth** | K8s · Helm · GitHub Actions · Docker · Prometheus/Grafana | GitOps deployment, Sealed Secrets, HPA, RBAC, Trivy scanning, full observability stack |
+| **Loops** | Terraform · AWS · Lambda · DynamoDB | Serverless AWS stack, OIDC CI/CD, plan-on-PR, checkov, Dependabot, $0/month by design |
 
 
 ## Certifications
